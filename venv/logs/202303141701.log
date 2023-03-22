@@ -1,0 +1,5 @@
+2023-03-14 17:01:29,908 - RegisterTestcase - INFO - 打开浏览器，窗口最大化
+2023-03-14 17:01:30,868 - RegisterTestcase - INFO - 注册邮箱错误，但用例执行成功
+2023-03-14 17:01:32,728 - RegisterTestcase - INFO - 打开浏览器，窗口最大化
+2023-03-14 17:01:33,313 - RegisterTestcase - INFO - 注册邮箱错误，但用例执行成功
+2023-03-14 17:01:34,424 - RegisterTestcase - INFO - 验证码错误，但用例执行成功
