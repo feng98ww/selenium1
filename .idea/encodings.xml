@@ -2,6 +2,11 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/venv/logs/202303081147.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/venv/logs/202303101817.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/venv/logs/202303131555.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/venv/logs/202303141632.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/venv/logs/202303211706.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/venv/logs/202303211741.log" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

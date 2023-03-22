@@ -1,0 +1,30 @@
+{
+  "测试数据1": {
+
+      "register_email": "123",
+      "nickname": "test01",
+      "password": "test01abc",
+      "captcha": "type"
+
+
+  },
+
+  "测试数据2": {
+
+    "register_email": "1234",
+    "nickname": "test02",
+    "password": "test01aa",
+    "captcha": "2222"
+
+
+  },
+  "测试数据3": {
+
+    "register_email": "123d4",
+    "nickname": "testd2",
+    "password": "test0daa",
+    "captcha": "22ddd"
+
+
+  }
+}

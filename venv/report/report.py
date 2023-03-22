@@ -9,7 +9,7 @@ class UseHtml:
         lists = ["test_register_email_error", "test_captcha_code_error"]
         for list_i in lists:
             suite.addTest(RegisterTestcase(list_i))
-        with open("../../selenium/report.html", "wb") as f:
+        with open("../../venv/report/report.html", "wb") as f:
             HTMLTestRunner(
                 stream=f,
                 title="单元测试",
